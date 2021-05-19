@@ -47,24 +47,7 @@
 #Store {
     border-top: 60px solid #ffffff;
 }
-#Bookings {
-    border-top: 80px solid #33b5e5;
-    background-color: #33b5e5;
-}
-.info {
-    background-color: #33b5e5;
-    text-align: center;
-    opacity: 0.8;
-}
-.button {
-    background-color: white;
-    color: black;
-    font-size: 1em;
-    border-radius: 10px;
-}
-.charity{
-    font-size: 2em;
-}
+
 footer {
     background-color: #9933cc;
     width: 100%;
