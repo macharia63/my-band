@@ -37,8 +37,6 @@ This website is focuses on fans, upcoming artists and companies.
 - Audios where fans can listen to some of their songs.
 #### Store
 - pictures and price of the products they sell.
-#### Bookings
-- Booking details of where the band performs and how they use 10% of the income to support the needy, phone number and social media handles where you can book them.
 #### Navbar
 - Name of the Band
 - Page menu links which help one to navigate through the whole website.
@@ -72,8 +70,6 @@ This website is focuses on fans, upcoming artists and companies.
 - Go to photo page check if all photos are well displayed.
 ##### Store
 - Go to store page check if the the prices of CDs and MP3 are well displayed.
-##### Bookings
-- Go to Bookings check if the booking details are available.
 ##### Navigation
 - Open each menu item on each page respectively and make sure they lead to the correct place and can easily find your way back to the starting point.
 ##### footer
