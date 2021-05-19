@@ -31,9 +31,12 @@
     border-radius: 250px;
 
 }
-#Home {
-    border-top: 60px solid #ffffff;
+#Contact {
+    border-top: 80px solid #33b5e5;
     background-color: #33b5e5;
+}
+#Photos {
+    border-top: 60px solid #ffffff;
 }
 footer {
     background-color: #9933cc;
