@@ -31,6 +31,10 @@
     border-radius: 250px;
 
 }
+#Home {
+    border-top: 60px solid #ffffff;
+    background-color: #33b5e5;
+}
 footer {
     background-color: #9933cc;
     width: 100%;
