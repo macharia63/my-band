@@ -24,6 +24,13 @@
 #Home {
     border-top: 60px solid #ffffff;
 }
+#About {
+    border-top: 60px solid #ffffff;
+}
+.member {
+    border-radius: 250px;
+
+}
 footer {
     background-color: #9933cc;
     width: 100%;
