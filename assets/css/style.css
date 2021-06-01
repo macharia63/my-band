@@ -59,3 +59,66 @@ footer {
     color: white;
     
 }
+@media (min-width: 766px) {
+    .navbar {
+    background-color: #9933cc;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    color: #ffffff;
+    z-index: 999;
+    
+}
+.collapse navbar-collapse {
+    color: #ffffff;
+}
+.navbar li a .navbar .navbar-brand {
+    color: white;
+}
+.navbar-brand .nav-link .nav-item {
+    color: #ffffff;
+}
+
+.navbar-light .navbar-brand {
+    color: #ffffff;
+}
+
+#Home {
+    border-top: 60px solid #ffffff;
+}
+#About {
+    border-top: 60px solid #ffffff;
+}
+.member {
+    border-radius: 250px;
+
+}
+#Contact {
+    border-top: 80px solid #33b5e5;
+    background-color: #33b5e5;
+}
+.contact {
+    color: #ffffff;
+}
+#Photos {
+    border-top: 60px solid #ffffff;
+}
+#Songs {
+    border-top: 60px solid #ffffff;
+}
+#Store {
+    border-top: 60px solid #ffffff;
+}
+
+footer {
+    background-color: #9933cc;
+    width: 100%;
+    color: white;
+}
+.icon {
+    font-size: 24px;
+    border-radius: 12px;
+    color: white;
+    
+}
+}
