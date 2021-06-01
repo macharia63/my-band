@@ -59,7 +59,7 @@ footer {
     color: white;
     
 }
-@media (min-width: 766px) {
+@media (max-width: 766px) {
     .navbar {
     background-color: #9933cc;
     position: fixed;
